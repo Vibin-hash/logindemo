@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669589498605",
+    "firebase_url": "https://vibinda.firebaseio.com",
+    "project_id": "vibinda",
+    "storage_bucket": "vibinda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669589498605:android:8d97c6424a980b42f4bae4",
+        "android_client_info": {
+          "package_name": "com.example.loginappdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669589498605-e5carj6qu8rgkmv2r5nva9g5093mlcuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginappdk",
+            "certificate_hash": "72cdff2cf8c30947a766d96d3cf14346305cf251"
+          }
+        },
+        {
+          "client_id": "669589498605-12cjq6l03pq0ns2panc9fp2hfh5glt92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuy_qPDL251qb245y1rn4G0YnISzAUQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669589498605-12cjq6l03pq0ns2panc9fp2hfh5glt92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
